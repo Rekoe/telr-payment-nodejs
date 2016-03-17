@@ -1,7 +1,7 @@
 {
   "name": "telr-payment",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "author": "Ali Rizwan <ali.aruz@outlook.com>",
   "scripts": {},
   "dependencies": {
