@@ -5,7 +5,6 @@
   "author": "Ali Rizwan <ali.aruz@outlook.com>",
   "scripts": {},
   "dependencies": {
-    "mocha": "*",
     "request": "*"
   },
   "repository": {
