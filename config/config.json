@@ -1,0 +1,8 @@
+{
+	"url": "https://secure.telr.com/gateway/",
+	"api": {
+		"order": "order.json"
+	},
+	"defaultCurrency": "usd",
+	"testCards": []
+}

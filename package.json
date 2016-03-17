@@ -1,0 +1,20 @@
+{
+  "name": "telr-payment",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+      "name": "Ali Rizwan",
+      "email": "ali.aruz@outlook.com"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+    "mocha": "*",
+    "request": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/pepperwebme/telr-payment"
+  },
+  "description": "Terl Payment"
+}
