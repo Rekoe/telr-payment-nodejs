@@ -1,6 +1,6 @@
 {
   "name": "telr-payment",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "private": false,
   "author": "Ali Rizwan <ali.aruz@outlook.com>",
   "scripts": {},
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/alirizwan/telr_payment.git"
   },
-  "description": "Terl Payment",
+  "description": "Telr Payment",
   "bugs": {
     "url": "https://github.com/alirizwan/telr_payment/issues"
   },
